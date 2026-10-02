@@ -26,7 +26,7 @@ Responder às seguintes perguntas de negócio:
 
 **Período:** Junho/2026
 
-**Escopo:** 1.046 instituições financeiras, conglomerados e instituições independentes.
+**Escopo:** 1.406 instituições financeiras, conglomerados e instituições independentes.
 
 ### Variáveis Utilizadas
 
@@ -47,7 +47,7 @@ Responder às seguintes perguntas de negócio:
 
 | Indicador | Resultado |
 |-----------|------------|
-| Quantidade de Instituições | 1.046 |
+| Quantidade de Instituições | 1.406 |
 | Ativo Total Agregado | R$ 19,46 trilhões |
 | Participação Pública no Ativo Total | 33,39% |
 | Média do Ativo Total | R$ 13,84 bilhões |
