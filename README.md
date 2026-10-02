@@ -143,7 +143,7 @@ O gráfico também ajuda a explicar a grande diferença entre o ativo médio e o
 
 Os resultados mostram elevada variabilidade de rentabilidade entre as instituições.
 
-Também são observados outliers positivos e negativos, indicando que algumas organizações apresentam desempenho significativamente diferente da maioria da amostra.
+Também são observados outliers positivos e negativos, indicando que algumas organizações apresentam desempenho significativamente diferente da maioria da amostra. Adicionalmente, a presença desses outliers reduz a visibilidade dos quartis, mas constitui uma característica relevante da amostra.
 
 A diferença entre ROE médio (2,25%) e ROE mediano (4,42%) sugere que instituições com desempenho muito negativo influenciam o resultado agregado.
 
