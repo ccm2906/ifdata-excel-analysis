@@ -223,4 +223,7 @@ Possíveis extensões desta análise incluem:
 
 **Claudio Da Cunha Machado**
 
-Projeto desenvolvido como parte dos estudos em Business Intelligence, Data Analytics e visualização de dados utilizando informações públicas do Sistema Financeiro Nacional.
+Projeto desenvolvido como parte dos estudos em Business Intelligence, Data Analytics e visualização de dados utilizando informações públicas do Sistema Financeiro Nacional. 
+[Baixe aqui a planilha Excel com o Dashboard](./Ifdata_analysis.xlsx)
+
+
