@@ -73,9 +73,9 @@ Embora representem a maioria das instituições, esses segmentos não necessaria
 
 ---
 
-## 2. Ativo Total por Tipo de Controle
+## 2. Quantidade de Instituições por Tipo de Controle
 
-![Gráfico 2](images/02_ativo_controle.png)
+![Gráfico 2](images/02_qtd_instituicoes_controle.png)
 
 ### Análise
 
