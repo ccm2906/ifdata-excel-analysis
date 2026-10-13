@@ -73,9 +73,21 @@ Embora representem a maioria das instituições, esses segmentos não necessaria
 
 ---
 
-## 2. Ativo Total por Segmento
+## 2. Ativo Total por Tipo de Controle
 
-![Gráfico 2](images/02_ativo_segmento.png)
+![Gráfico 2](images/02_ativo_controle.png)
+
+### Análise
+
+Sob a ótica do controle, observa-se uma forte assimetria numérica no sistema, com ampla predominância de instituições privadas nacionais (1.204) frente às estrangeiras (173). 
+
+As organizações públicas registram a menor presença em quantidade de participantes (29), evidenciando a pulverização de agentes sob o controle do capital privado local. 
+
+---
+
+## 3. Ativo Total por Segmento
+
+![Gráfico 3](images/03_ativo_segmento.png)
 
 ### Análise
 
@@ -85,9 +97,9 @@ Apesar de contar com apenas 10 instituições, o segmento S1 apresenta volume de
 
 ---
 
-## 3. Ativo Total por Tipo de Controle
+## 4. Ativo Total por Tipo de Controle
 
-![Gráfico 3](images/03_ativo_controle.png)
+![Gráfico 4](images/04_ativo_controle.png)
 
 ### Análise
 
@@ -97,9 +109,9 @@ Os dados mostram que aproximadamente um terço dos ativos está sob controle pú
 
 ---
 
-## 4. Top 10 Instituições por Ativo Total
+## 5. Top 10 Instituições por Ativo Total
 
-![Gráfico 4](images/04_top10_ativos.png)
+![Gráfico 5](images/05_top10_ativos.png)
 
 ### Análise
 
@@ -109,9 +121,9 @@ O gráfico mostra a predominância de um pequeno grupo de instituições de gran
 
 ---
 
-## 5. Curva de Pareto dos Maiores Bancos
+## 6. Curva de Pareto dos Maiores Bancos
 
-![Gráfico 5](images/05_pareto_top10.png)
+![Gráfico 6](images/06_pareto_top10.png)
 
 ### Análise
 
@@ -121,9 +133,9 @@ O comportamento da curva reforça a hipótese de elevada concentração estrutur
 
 ---
 
-## 6. Distribuição do Ativo Total por Segmento (Boxplot)
+## 7. Distribuição do Ativo Total por Segmento (Boxplot)
 
-![Gráfico 6](images/06_boxplot_ativos.png)
+![Gráfico 7](images/07_boxplot_ativos.png)
 
 ### Análise
 
@@ -135,9 +147,9 @@ O gráfico também ajuda a explicar a grande diferença entre o ativo médio e o
 
 ---
 
-## 7. Distribuição do ROE por Segmento (Boxplot)
+## 8. Distribuição do ROE por Segmento (Boxplot)
 
-![Gráfico 7](images/07_boxplot_roe.png)
+![Gráfico 8](images/08_boxplot_roe.png)
 
 ### Análise
 
