@@ -75,7 +75,7 @@ Embora representem a maioria das instituições, esses segmentos não necessaria
 
 ## 2. Quantidade de Instituições por Tipo de Controle
 
-![Gráfico 2](images/02_qtd_instituicoes_tipo_controle.png)
+![Gráfico 2](images/02_qtd_instituicoes_tipo_controle.PNG)
 
 ### Análise
 
@@ -87,7 +87,7 @@ As organizações públicas registram a menor presença em quantidade de partici
 
 ## 3. Ativo Total por Segmento
 
-![Gráfico 3](images/03_ativo_segmento.png)
+![Gráfico 3](images/03_ativo_segmento.PNG)
 
 ### Análise
 
