@@ -222,6 +222,7 @@ Possíveis extensões desta análise incluem:
 # Autor
 
 **Claudio Da Cunha Machado**
+
 [Linkedin](https://linkedin.com)
 
 Projeto desenvolvido como parte dos estudos em Business Intelligence, Data Analytics e visualização de dados utilizando informações públicas do Sistema Financeiro Nacional. 
