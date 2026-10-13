@@ -133,7 +133,7 @@ O comportamento da curva reforça a hipótese de elevada concentração estrutur
 
 ---
 
-## 7. Distribuição do Ativo Total por Segmento (Boxplot)
+## 7. Distribuição do Ativo Total por Segmento 
 
 ![Gráfico 7](images/07_boxplot_ativos.png)
 
@@ -147,7 +147,7 @@ O gráfico também ajuda a explicar a grande diferença entre o ativo médio e o
 
 ---
 
-## 8. Distribuição do ROE por Segmento (Boxplot)
+## 8. Distribuição do ROE por Segmento
 
 ![Gráfico 8](images/08_boxplot_roe.png)
 
