@@ -1,14 +1,27 @@
-# Análise da Estrutura do Sistema Financeiro Brasileiro (IF.data - Junho/2026)
+# IFData BCB: análise do Sistema Financeiro Brasileiro em Excel
 
-## Visão Geral
+Projeto 1 de 3 do meu portfólio de análise de dados. Os três projetos usam os mesmos dados públicos do IFData (Banco Central do Brasil), em ferramentas diferentes e com senioridade analítica crescente: Excel → Power BI → Python.
 
-Este projeto tem como objetivo analisar a estrutura do Sistema Financeiro Nacional utilizando dados públicos disponibilizados pelo Banco Central do Brasil por meio da plataforma IF.data.
+## Contexto e objetivo
 
+Este repositório faz parte de um portfólio com três projetos sobre os mesmos dados, para mostrar evolução técnica e analítica:
+
+| Projeto	| Ferramenta | Escopo	| Foco | Status |
+|---------|------------|--------|------|--------|
+| 1 | Excel | Uma data-base (06/2026) | Análise descritiva e visualização | Publicado (este) |
+| 2 |	Power BI | Seis datas-base, modelo dimensional	| Série temporal, DAX, validação, storytelling | Publicado |
+| 3 | 3	Python | Seis datas-base	| Estatística, segmentação e previsão | Planejado |
+
+-----
+
+## Visão geral
+
+Este projeto analisa a estrutura do sistema financeiro brasileiro utilizando dados públicos disponibilizados pelo Banco Central do Brasil por meio da plataforma IF.data.
 A análise explora a distribuição dos ativos, carteira de crédito, rentabilidade e características operacionais das instituições financeiras brasileiras, identificando padrões de concentração, participação por tipo de controle e indícios de transformação digital no setor.
 
 ---
 
-## Objetivos da Análise
+## Objetivos da análise
 
 Responder às seguintes perguntas de negócio:
 
@@ -16,8 +29,9 @@ Responder às seguintes perguntas de negócio:
 - Existe concentração relevante de mercado?
 - Qual a participação das instituições públicas no sistema financeiro?
 - Como está distribuída a rentabilidade (ROE) das instituições?
-- Há evidências de transformação digital no setor?
+- Há evidências de transformação digital no setor? 
 
+## Público: recrutadores e gestores de análise de dados. O relatório e este documento mostram o raciocínio, não só o resultado.
 ---
 
 ## Base de Dados
@@ -201,13 +215,14 @@ O estudo também evidencia a relevância da análise exploratória na identifica
 
 # Próximos Passos
 
-Possíveis extensões desta análise incluem:
+Extensões desta análise incluem, dentre outros, os itens listados abaixo, cuja análise já foi publicada no repositório **ifdata-powerbi-analysis**, onde foram construídos os dashboards e métricas em Power BI.:
 
-- Avaliação da evolução histórica dos ativos e da carteira de crédito.
-- Estudo da evolução da concentração bancária ao longo do tempo.
-- Análise da relação entre porte e rentabilidade.
-- Comparação dos indicadores entre tipos de controle.
-- Construção de dashboards interativos em Power BI.
+- Avaliação da evolução histórica dos ativos e da carteira de crédito;
+- Estudo da evolução da concentração bancária ao longo do tempo;
+- Análise da relação entre porte e rentabilidade;
+- Comparação dos indicadores entre tipos de controle;
+- Análise da distribuição da rede física;
+- Construção de dashboards interativos em Power BI. 
 
 ---
 
