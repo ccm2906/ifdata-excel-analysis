@@ -218,7 +218,7 @@ O estudo também evidencia a relevância da análise exploratória na identifica
 
 # Próximos Passos
 
-Extensões desta análise incluem, dentre outros, os itens listados abaixo, cuja análise já foi publicada no repositório **ifdata-powerbi-analysis**, onde foram construídos os dashboards e métricas em Power BI.:
+Extensões desta análise incluem, dentre outros, os itens listados abaixo, cuja análise já foi publicada no repositório **ifdata-powerbi-analysis**, onde foram construídos os dashboards e métricas em Power BI.
 
 - Avaliação da evolução histórica dos ativos e da carteira de crédito;
 - Estudo da evolução da concentração bancária ao longo do tempo;
