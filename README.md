@@ -17,7 +17,7 @@ Este repositório faz parte de um portfólio com três projetos sobre os mesmos 
 ## Visão geral
 
 Este projeto analisa a estrutura do sistema financeiro brasileiro utilizando dados públicos disponibilizados pelo Banco Central do Brasil por meio da plataforma IF.data.
-A análise explora a distribuição dos ativos, carteira de crédito, rentabilidade e características operacionais das instituições financeiras brasileiras, identificando padrões de concentração, participação por tipo de controle e indícios de transformação digital no setor.
+A análise explora a distribuição dos ativos, carteira de crédito, rentabilidade e características operacionais das instituições financeiras brasileiras, identificando padrões de concentração, participação por tipo de controle e indícios de transformação digital no setor. A análise realizada em Excel serve para validação das métricas e exploração dos dados, e a etapa subsequente migra o processo para Power BI, incluindo modelagem dimensional, medidas DAX e dashboards interativos.
 
 ---
 
