@@ -31,7 +31,10 @@ Responder às seguintes perguntas de negócio:
 - Como está distribuída a rentabilidade (ROE) das instituições?
 - Há evidências de transformação digital no setor? 
 
-## Público: recrutadores e gestores de análise de dados. O relatório e este documento mostram o raciocínio, não só o resultado.
+## Público: 
+
+Recrutadores e gestores de análise de dados. O relatório e este documento mostram o raciocínio, não só o resultado.
+
 ---
 
 ## Base de Dados
