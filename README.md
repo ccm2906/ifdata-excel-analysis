@@ -2,6 +2,15 @@
 
 Projeto 1 de 3 do meu portfólio de análise de dados. Os três projetos usam os mesmos dados públicos do IFData (Banco Central do Brasil), em ferramentas diferentes e com senioridade analítica crescente: Excel → Power BI → Python.
 
+----
+
+## Visão geral
+
+Este projeto analisa a estrutura do sistema financeiro brasileiro utilizando dados públicos disponibilizados pelo Banco Central do Brasil por meio da plataforma IF.data.
+A análise explora a distribuição dos ativos, carteira de crédito, rentabilidade e características operacionais das instituições financeiras brasileiras, identificando padrões de concentração, participação por tipo de controle e indícios de transformação digital no setor. A análise realizada em Excel serve para validação das métricas e exploração dos dados, e a etapa subsequente migra o processo para Power BI, incluindo modelagem dimensional, medidas DAX e dashboards interativos.
+
+---
+
 ## Contexto e objetivo
 
 Este repositório faz parte de um portfólio com três projetos sobre os mesmos dados, para mostrar evolução técnica e analítica:
@@ -14,14 +23,7 @@ Este repositório faz parte de um portfólio com três projetos sobre os mesmos 
 
 -----
 
-## Visão geral
-
-Este projeto analisa a estrutura do sistema financeiro brasileiro utilizando dados públicos disponibilizados pelo Banco Central do Brasil por meio da plataforma IF.data.
-A análise explora a distribuição dos ativos, carteira de crédito, rentabilidade e características operacionais das instituições financeiras brasileiras, identificando padrões de concentração, participação por tipo de controle e indícios de transformação digital no setor. A análise realizada em Excel serve para validação das métricas e exploração dos dados, e a etapa subsequente migra o processo para Power BI, incluindo modelagem dimensional, medidas DAX e dashboards interativos.
-
----
-
-## Objetivos da análise
+### Objetivos da análise
 
 Responder às seguintes perguntas de negócio:
 
@@ -31,7 +33,7 @@ Responder às seguintes perguntas de negócio:
 - Como está distribuída a rentabilidade (ROE) das instituições?
 - Há evidências de transformação digital no setor? 
 
-## Público: 
+### Público: 
 
 Recrutadores e gestores de análise de dados. O relatório e este documento mostram o raciocínio, não só o resultado.
 
