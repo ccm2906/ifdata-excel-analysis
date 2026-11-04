@@ -1,0 +1,42 @@
+# ==========================================
+# EXCEL E ARQUIVOS DE ESCRITÓRIO
+# ==========================================
+# Arquivos temporários criados pelo Excel enquanto o arquivo está aberto
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.csv
+
+# Arquivos de backup automáticos do Excel
+*.xlk
+*.tmp
+
+# (Opcional) Ignorar arquivos CSV ou bases de dados gigantes se você preferir não buildá-los no Git
+# data/
+# *.csv
+# *.tsv
+
+# ==========================================
+# SISTEMA OPERACIONAL (Universal)
+# ==========================================
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ==========================================
+# CONFIGURAÇÕES DE EDITOR / IDE (Opcional)
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
