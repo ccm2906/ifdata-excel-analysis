@@ -2,9 +2,13 @@
 
 Projeto 1 de 3 do meu portfólio de análise de dados. Os três projetos usam os mesmos dados públicos do IFData (Banco Central do Brasil), em ferramentas diferentes e com senioridade analítica crescente: Excel → Power BI → Python.
 
+### Visão geral do relatório 
+<img width="1039" height="512" alt="image" src="https://github.com/user-attachments/assets/cad47220-bfba-432f-a1e9-7aa32b5d4066" />
+
 ----
 
 ## Visão geral
+
 
 Este projeto analisa a estrutura do sistema financeiro brasileiro utilizando dados públicos disponibilizados pelo Banco Central do Brasil por meio da plataforma IF.data.
 A análise explora a distribuição dos ativos, carteira de crédito, rentabilidade e características operacionais das instituições financeiras brasileiras, identificando padrões de concentração, participação por tipo de controle e indícios de transformação digital no setor. A análise realizada em Excel serve para validação das métricas e exploração dos dados, e a etapa subsequente migra o processo para Power BI, incluindo modelagem dimensional, medidas DAX e dashboards interativos.
