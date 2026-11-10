@@ -1,11 +1,8 @@
 # IFData BCB: análise do Sistema Financeiro Brasileiro em Excel
 
-Projeto 1 de 3 do meu portfólio de análise de dados. Os três projetos usam os mesmos dados públicos do IFData (Banco Central do Brasil), em ferramentas diferentes e com senioridade analítica crescente: Excel → Power BI → Python.
+Projeto 1 de 3 do meu portfólio de análise de dados. Os três projetos usam os mesmos dados públicos do IFData (Banco Central do Brasil), em ferramentas diferentes e com senioridade analítica crescente: Excel → Power BI → Python. 
 
-### Visão geral do relatório 
 <img width="1039" height="512" alt="image" src="https://github.com/user-attachments/assets/cad47220-bfba-432f-a1e9-7aa32b5d4066" />
-
-----
 
 ## Visão geral
 
